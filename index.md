@@ -1,8 +1,9 @@
 ---
 Name: Captain Sahgal
+layout: demo_file
 ---
 
-<!--- Markdown command trial --->
+<!--- Markdown command trials --->
 
 
 # Lakshmi-Sahgal
