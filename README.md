@@ -2,7 +2,7 @@
 
 # Lakshmi-Sahgal
 
-Dr. Lakshmi Sahgal also knowm as Captain Lakshmi was the minister for Women's Affairs in the _Azad Hind Fauj_ and a member of the _Indian National Army_.
+Dr. Lakshmi Sahgal also knowm as {{name}} was the minister for Women's Affairs in the _Azad Hind Fauj_ and a member of the _Indian National Army_.
 
 ## Life
 
@@ -19,7 +19,7 @@ A few things that she was passionate about in her lifetime are:
 
 ### Rani of Jhansi Regiment
 
-Dr. Lakshmi created the Rani of Jhansi Regiment, an all women brigade in the Indian National Army formed by Subhash Chnadra Bose. She organised the regiment based on the capabilities of its members.
+{{name}} created the Rani of Jhansi Regiment, an all women brigade in the Indian National Army formed by Subhash Chnadra Bose. She organised the regiment based on the capabilities of its members.
 
 | Skill     | Team         |
 |-----------|--------------|
