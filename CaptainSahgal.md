@@ -1,4 +1,4 @@
-<!--- Markdown skill test --->
+<!--- Markdown command trial --->
 
 # Lakshmi-Sahgal
 
