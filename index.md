@@ -2,6 +2,9 @@
 Name: Captain Sahgal
 ---
 
+<!--- Markdown command trial --->
+
+
 # Lakshmi-Sahgal
 
 Dr. Lakshmi Sahgal also knowm as {{page.Name}} was the minister for Women's Affairs in the _Azad Hind Fauj_ and a member of the _Indian National Army_.
@@ -21,4 +24,11 @@ A few things that she was passionate about in her lifetime are:
 
 ### Rani of Jhansi Regiment
 
-{{page.Name}} created the Rani of Jhansi Regiment,
+{{page.Name}} created the Rani of Jhansi Regiment, an all women brigade in the Indian National Army formed by Subhash Chnadra Bose. She organised the regiment based on the capabilities of its members.
+
+| Skill     | Team         |
+|-----------|--------------|
+| Medicine  |  Medical Aid |
+| Weaponary | Battle       |
+
+Image: ![Captain Sahgal](C:\Users\SahitiReddy\OneDrive - Constella Intelligence\Work\Guides\GitHubJekyll\CaptainSahgal.jpg)
