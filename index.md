@@ -37,9 +37,9 @@ Image: ![Captain Sahgal](C:\Users\SahitiReddy\OneDrive - Constella Intelligence\
 
 ### Major Events
 
-{% for anywordhere in site.data.tes_data_file_twt %}
+{ % for anywordhere in site.data.tes_data_file_twt % }
 
-| {{anywordhere.year}}:{{anywordhere.event}}:{{anywordhere.description}} |
+- {{anywordhere.year}}:{{anywordhere.event}}:{{anywordhere.description}}
 
-{ % endfor %}
+{ % endfor % }
 
