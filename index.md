@@ -27,10 +27,10 @@ A few things that she was passionate about in her lifetime are:
 
 {{page.Name}} created the Rani of Jhansi Regiment, an all women brigade in the Indian National Army formed by Subhash Chnadra Bose. She organised the regiment based on the capabilities of its members.
 
-| Skill     | Team         |
+| Skill     |  Team        |
 |-----------|--------------|
-| Medicine  | Medical Aid  |
-| Weaponary | Battle       |
+| Medicine  |  Medical Aid |
+| Weaponary |  Battle      |
 
 Image: ![Captain Sahgal](C:\Users\SahitiReddy\OneDrive - Constella Intelligence\Work\Guides\GitHubJekyll\CaptainSahgal.jpg)
 
