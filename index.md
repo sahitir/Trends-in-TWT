@@ -44,5 +44,5 @@ Image: ![Captain Sahgal](C:\Users\SahitiReddy\OneDrive - Constella Intelligence\
 {% endfor %}
 
 
-{ % include sample_includes_test.file_extension % }
+{% include sample_includes_test %}
 
