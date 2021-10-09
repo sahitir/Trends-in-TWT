@@ -39,7 +39,7 @@ Image: ![Captain Sahgal](C:\Users\SahitiReddy\OneDrive - Constella Intelligence\
 
 { % for anywordhere in site.data.tes_data_file_twt % }
 
-- {{anywordhere.year}}:{{anywordhere.event}}:{{anywordhere.description}}
+- {{anywordhere.year}}: {{anywordhere.event}}: {{anywordhere.description}}
 
 { % endfor % }
 
