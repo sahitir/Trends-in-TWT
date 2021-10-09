@@ -29,7 +29,17 @@ A few things that she was passionate about in her lifetime are:
 
 | Skill     | Team         |
 |-----------|--------------|
-| Medicine  |  Medical Aid |
+| Medicine  | Medical Aid  |
 | Weaponary | Battle       |
 
 Image: ![Captain Sahgal](C:\Users\SahitiReddy\OneDrive - Constella Intelligence\Work\Guides\GitHubJekyll\CaptainSahgal.jpg)
+
+
+### Major Events
+
+{% for anywordhere in site.data.tes_data_file_twt %}
+
+- {{anywordhere.year}} {{anywordhere.event}} {{anywordhere.description}}
+
+{ % endfor %}
+
