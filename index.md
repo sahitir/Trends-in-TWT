@@ -44,7 +44,7 @@ Image: ![Captain Sahgal](C:\Users\SahitiReddy\OneDrive - Constella Intelligence\
 {% endfor %}
 
 
-{% include includeSample.txt %}
+{% include test_includes.txt %}
 
 
 
