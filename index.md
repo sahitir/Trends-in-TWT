@@ -72,8 +72,6 @@ A few things that she was passionate about in her lifetime are:
 | Medicine  | Medical Aid |
 | Weaponary | Battle      |
 
-Image: ![Captain Sahgal](C:\Users\SahitiReddy\OneDrive - Constella Intelligence\Work\Guides\GitHubJekyll\Repository Practice_TWT_Git\Trends-in-TWT.jpg)
-
 
 ### Major Events
 
