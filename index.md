@@ -2,6 +2,8 @@
 Name: Captain Sahgal
 ---
 
+\usepackage{enumitem}
+
 <!--- Markdown command trials --->
 
 # Step 5: Manage your invoices and payment methods
@@ -22,9 +24,11 @@ Before you start working with resources in your account, familiarize yourself wi
 
 Resource groups provide a way for you to easily manage access to multiple resources and to view billing usage for a set of resources. With your Pay-As-You-Go account, you can create more resource groups in addition to the default resource group that's created for you.
 
-\circled{1} Go to **Manage** > **Account** > **Account resources** > **Resource groups**.
-\circled{2} Click **Create**.
-\circled{3} Enter a name for your resource group, and click **Add**.
+\begin{enumerate}[label=\protect\circled{\arabic*}]
+\item Go to **Manage** > **Account** > **Account resources** > **Resource groups**.
+\item Click **Create**.
+\item Enter a name for your resource group, and click **Add**.
+\end{enumerate}
 
 See [What makes a good resource group strategy?](https://cloud.ibm.com/docs/account?topic=account-account_setup#resource-group-strategy) for details about how to optimally organize resources in your resource groups.
 
