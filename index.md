@@ -73,16 +73,3 @@ A few things that she was passionate about in her lifetime are:
 | Weaponary | Battle      |
 
 
-### Major Events
-
-{% for anywordhere in site.data.tes_data_file_twt %}
-
-- {{anywordhere.Year}}: {{anywordhere.Event}}: {{anywordhere.Description}}
-
-{% endfor %}
-
-
-{% include test_includes.txt %}
-
-
-
